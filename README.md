@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I work on projects continuously<br>- 💼 I use godot at the moment<br>-  ⌛ Busy most of the time </p>
+<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I work on projects continuously<br>- 💼 I use godot at the moment<br>-  ⌛ I am busy most of the time </p>
 
 ###
