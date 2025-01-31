@@ -14,12 +14,6 @@
 
 ###
 
-<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I’m not working as home<br>- 📚 I'm currently learning ##########<br>- 🔏 In my free time I NOT WORKING </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bekkali-2004/bekkali-2004/output/snake.svg" alt="Snake animation" />
+<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I work on projects continuously<br>- 💼 I use godot at the moment<br>-  ⌛ Busy most of the time </p>
 
 ###
