@@ -10,11 +10,11 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I work on projects continuously<br>- 💼 I use godot at the moment<br>-  ⌛ I am busy most of the time </p>
+<p align="left">I'm from Morocco 🇲🇦<br><br>- 🛠️ I developer </p>
 
 ###
 
